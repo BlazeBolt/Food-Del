@@ -36,7 +36,7 @@ Tomato is a full-featured **MERN stack food delivery web application** that allo
 - Express.js
 - MongoDB (Mongoose ODM)
 - JSON Web Token (JWT)
-- bcrypt for password hashing
+- bcryptjs for password hashing
 - multer for image upload
 - dotenv for environment config
 
