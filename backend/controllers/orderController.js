@@ -10,7 +10,7 @@
 // //placing user order from frontend
 // const placeOrder = async (req, res) => {
 
-//     const frontend_url = "http://localhost:5173";
+//     const frontend_url = "https://food-del-frontend-u65c.onrender.com/";
 
 //     try {
 //         const newOrder = new orderModel({

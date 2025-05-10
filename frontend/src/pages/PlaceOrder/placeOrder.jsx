@@ -75,7 +75,7 @@ const placeOrder = () => {
       }
     } catch (error) {
       console.error(error);
-      alert("Error placing the order.");
+      alert("Why are you paying for fake food?");
     }
   };
 
